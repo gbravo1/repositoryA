@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#selecting java 1.7
+sudo update-alternatives --config java 
+
+#activating phyluce
+source activate phyluce
+
